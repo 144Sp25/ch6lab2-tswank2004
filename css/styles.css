@@ -155,7 +155,7 @@ footer a {
 print {
 
     /* Tablet Viewport: Show tab-desk class, hide mobile class */
-    .tab-desktop {
+    .tab-desk {
         display: block;
     }
 
@@ -180,7 +180,7 @@ print {
 @media screen and (min-width: 1921px) {
 
     body {
-        background: linear-gradient(#f6eee4, #78593a)
+        background: linear-gradient(#f6eee4, #78593a);
     }
 
     #wrapper {
